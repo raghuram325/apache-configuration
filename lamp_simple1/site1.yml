@@ -1,6 +1,6 @@
----
+adfksaknfsdfsjghoirnge.;/, cxnvmcn;'dsfvn fnol; jgiwefr'ew/frjsdvfn--
 # This playbook deploys the whole application stack in this site.
-# practise
+
 - name: apply common configuration to all nodes
   hosts: all
   remote_user: root
